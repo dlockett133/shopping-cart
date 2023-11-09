@@ -3,31 +3,31 @@
       "id": 1,
       "name": "Smartphone",
       "price": 399.99,
-      "imgUrl": "public/assets/items/phone.jpg"
+      "imgUrl": "src/assets/items/phone.jpg"
     },
     {
       "id": 2,
       "name": "Laptop",
       "price": 899.99,
-      "imgUrl": "public/assets/items/laptop.jpg"
+      "imgUrl": "src/assets/items/laptop.jpg"
     },
     {
       "id": 3,
       "name": "Tablet",
       "price": 299.99,
-      "imgUrl": "public/assets/items/tablet.jpg"
+      "imgUrl": "src/assets/items/tablet.jpg"
     },
     {
       "id": 4,
       "name": "Headphones",
       "price": 79.99,
-      "imgUrl": "public/assets/items/headphones.jpg"
+      "imgUrl": "src/assets/items/headphones.jpg"
     },
     {
       "id": 5,
       "name": "Smartwatch",
       "price": 149.99,
-      "imgUrl": "public/assets/items/smart-watch.jpg"
+      "imgUrl": "src/assets/items/smart-watch.jpg"
     }
 ]
   
